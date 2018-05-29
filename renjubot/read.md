@@ -1,0 +1,1 @@
+Just launch dipper.py
