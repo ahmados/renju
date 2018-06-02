@@ -16,6 +16,8 @@ labs needed to create renju bot
 
 learning.ipynb - script for learning keras model
 
+#### data for training - https://github.com/dasimagin/renju/tree/master/data
+
 gui.ipynb - gui for playing as human for white or black against model
 
 ### needed at least tkinter
