@@ -18,7 +18,8 @@ learning.ipynb - script for learning keras model
 gui.ipynb - gui for playing as human for white or black against model
 
 ### needed at least tkinter
-you can play gui renju in tkinter_0.py
+you can play gui renju : gui_tkinter.py
+(launch by python3 gui_tkinter.py and choose side to play for)
 
 ## renjubot(python script)
 
